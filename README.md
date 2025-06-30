@@ -6,6 +6,8 @@ A lightweight ETL pipeline that extracts data from a local **MySQL** database, t
 <div align="center">
     <img src="https://github.com/AdhamAymanElsayed/airflow-sqoop-hive-pipeline/blob/main/pipeline.png?raw=true" alt="Airflow Sqoop Hive Pipeline" width="700"/>
 </div>
+
+
 ---
 
 ## ⚙️ Stack
