@@ -3,6 +3,10 @@
 A lightweight ETL pipeline that extracts data from a local **MySQL** database, transfers it to **HDFS** using **Sqoop**, loads it into **Hive**, and validates the data — all orchestrated using **Apache Airflow**.
 
 ---
+<div align="center">
+    <img src="https://github.com/AdhamAymanElsayed/airflow-sqoop-hive-pipeline/blob/main/pipeline.png?raw=true" alt="Airflow Sqoop Hive Pipeline" width="700"/>
+</div>
+---
 
 ## ⚙️ Stack
 
